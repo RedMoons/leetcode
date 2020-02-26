@@ -1,6 +1,6 @@
-# leetcode solution
 ## 21-Merge-Two-Sorted-Lists-README
 
+Time complexity : O(n)
 ```
 class ListNode:
     def __init__(self, x):
